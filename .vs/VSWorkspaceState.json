@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\e2e",
+    "\\img",
+    "\\Screenshot",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\about",
+    "\\src\\app\\admission",
+    "\\src\\app\\contact",
+    "\\src\\app\\department"
+  ],
+  "SelectedNode": "\\karma.conf.js",
+  "PreviewInSolutionExplorer": false
+}
